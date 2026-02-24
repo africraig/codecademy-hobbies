@@ -1,0 +1,22 @@
+body {
+  max-width: 1440px;
+}
+
+h1,p,li {
+  font-family: "Montserrat", sans-serif;
+}
+
+.custom-coding-background {
+  background-image: url('../images/codebackground.png'); 
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+
+}
+
+.custom-travel-background {
+  background-image: url('../images/worldmap.png');
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+}
