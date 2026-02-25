@@ -2,6 +2,6 @@
 codecademy week 4 bootstrap assignment
 
 ## <span style="color:grey"> iPhone view </span>
-<div style="text-align: center">
-    <img src="./images/resposively/iphone.jpeg" alt="iphone view screenshot" width="500">
-</div>
+<p align="center" width="100%">
+    <img width="60%" src="./images/resposively/iphone.jpeg" alt="iphone view screenshot" width="500">
+</p>
